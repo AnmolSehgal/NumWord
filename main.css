@@ -1,0 +1,15 @@
+body{
+    background-color: #f58442;
+    text-align: center;
+}
+input{
+    border: none;
+    border-radius: 3px;
+}
+h1, h2{
+    color: white;
+}
+#displayWords{
+    font-size: 40px;
+    color: white;
+}
